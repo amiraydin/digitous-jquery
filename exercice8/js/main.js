@@ -1,0 +1,3 @@
+$(function () {
+    $("button").click(displaySecretText);
+});
